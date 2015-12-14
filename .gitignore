@@ -6,3 +6,21 @@ composer.lock
 cache.properties
 coverage.clover
 docs/_build
+
+# idea, netbeans, eclipse, zend studio, aptana or other eclipse like project files
+.idea
+nbproject
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml

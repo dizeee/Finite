@@ -1,8 +1,8 @@
 {
-    "name":        "yohang/finite",
+    "name":        "dizeee/finite",
     "description": "A simple PHP5.3+ Finite State Machine",
     "keywords":    ["statemachine", "workflow", "state", "transition", "symfony", "bundle"],
-    "homepage":    "https://github.com/yohang/Finite",
+    "homepage":    "https://github.com/dizeee/Finite",
     "type":        "library",
     "license":     "MIT",
     "authors": [
@@ -12,8 +12,13 @@
             "homepage": "http://yohan.giarel.li"
         },
         {
+            "name":     "Aleksei Vesnin",
+            "email":    "dizeee@dizeee.ru",
+            "homepage": "https://github.com/dizeee"
+        },
+        {
             "name":     "Finite contributors",
-            "homepage": "https://github.com/yohang/Finite/graphs/contributors"
+            "homepage": "https://github.com/dizeee/Finite/graphs/contributors"
         }
     ],
     "require": {
